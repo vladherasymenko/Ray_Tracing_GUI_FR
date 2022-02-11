@@ -6,4 +6,6 @@ Pour récompiler le code (ce qui n'est pas nécessaire), il faut décompresser l
 
 Configuration requise : 
 - CPU avec au moins 4 coeurs et 2 décodeurs par coeur
-- Windows XP ou plus récent (*le programme ne s'exécutera sous Linux !*)
+- Windows XP ou plus récent 
+
+*À NOTER : LE PROGRAMME NE s'EXÉCUTERA SOUS LINUX*
