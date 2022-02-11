@@ -8,4 +8,4 @@ Configuration requise :
 - CPU avec au moins 4 coeurs et 2 décodeurs par coeur
 - Windows XP ou plus récent 
 
-*À NOTER : LE PROGRAMME NE s'EXÉCUTERA SOUS LINUX*
+*À NOTER : LE PROGRAMME NE S'EXÉCUTERA SOUS LINUX*
